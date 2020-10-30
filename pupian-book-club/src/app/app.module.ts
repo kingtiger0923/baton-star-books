@@ -46,7 +46,7 @@ export class AppModule {
       cache: new InMemoryCache()
     });
 
-    crazyLoop();
+    // crazyLoop();
   }
 }
 
